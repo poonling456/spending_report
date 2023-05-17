@@ -1,2 +1,2 @@
 # spending_report
- Dashboard about my spending in Toronto
+Tableau dashboard about my spending in Toronto
